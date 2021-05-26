@@ -1,0 +1,81 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\comorg\sc_computer\simulation\qsim
+vsc_computer
+Z1 IL5;eL^42YS>[UYP]k92U=0
+Z2 V6Jheh1e9Sn@d:V1T3;WJH3
+Z3 dD:\comorg\sc_computer\simulation\qsim
+Z4 w1593572697
+Z5 8sc_computer.vo
+Z6 Fsc_computer.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s90 -work|work|sc_computer.vo|
+Z9 o-work work -O0
+!i10b 1
+Z10 !s100 5a=Bdk3m0zV3ILad5QWFE2
+!s85 0
+Z11 !s108 1593572698.080000
+Z12 !s107 sc_computer.vo|
+!s101 -O0
+vsc_computer_vlg_check_tst
+!i10b 1
+Z13 !s100 iZLR[n[P@@1=GA3W^z3Pz0
+Z14 I^Q[jRn>Tg55zQ9d^SlcQO0
+Z15 V8?e@Xbj]DAZZ=^0YC[cRz1
+R3
+Z16 w1593572695
+Z17 8sc_computer.vt
+Z18 Fsc_computer.vt
+L0 79
+R7
+r1
+!s85 0
+31
+Z19 !s108 1593572698.732000
+Z20 !s107 sc_computer.vt|
+Z21 !s90 -work|work|sc_computer.vt|
+!s101 -O0
+R9
+vsc_computer_vlg_sample_tst
+!i10b 1
+Z22 !s100 5IGSmMU;8UK0Jj2b=Ch4i2
+Z23 If[k2ZVTDSgQNQbAb8d2]S2
+Z24 VoOYh=lKTJnoS<gIKj9XFW2
+R3
+R16
+R17
+R18
+L0 29
+R7
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R9
+vsc_computer_vlg_vec_tst
+!i10b 1
+Z25 !s100 M2N9L;IInUgbdJCGCjC1B1
+Z26 I2NMCKm;XXYTKmeMc44:TF2
+Z27 VmDHkRgb0GW[o2oea?bDTi1
+R3
+R16
+R17
+R18
+Z28 L0 761
+R7
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R9

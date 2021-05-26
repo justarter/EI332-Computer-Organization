@@ -1,0 +1,11 @@
+
+
+D:/comorg/sc_computer1/source/lpm_rom_irom.v
+
+Jun 25 09PM:16:31>: Megafunction LPM_ROM is not listed in any 
+wizard.lst file in the specified library path(s).Wizard launch aborted
+
+D:/comorg/sc_computer1/source/lpm_rom_irom.v
+
+Jun 25 09PM:19:10>: Megafunction LPM_ROM is not listed in any 
+wizard.lst file in the specified library path(s).Wizard launch aborted
