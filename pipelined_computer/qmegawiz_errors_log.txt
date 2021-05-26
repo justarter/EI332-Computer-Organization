@@ -1,0 +1,11 @@
+
+
+D:/comorg/pipelined_computer/source/lpm_ram_dq_dram.v
+
+Jun 10 11PM:32:13>: Megafunction LPM_RAM_DQ is not listed in any 
+wizard.lst file in the specified library path(s).Wizard launch aborted
+
+D:/comorg/pipelined_computer/source/lpm_ram_dq_dram.v
+
+Jun 11 11AM:46:40>: Megafunction LPM_RAM_DQ is not listed in any 
+wizard.lst file in the specified library path(s).Wizard launch aborted
