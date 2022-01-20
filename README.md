@@ -1,4 +1,4 @@
-# EI332-Computer-Organization
+# SJTU-EI332-Computer-Organization
 
 single_cycle: 第一次实验，单周期CPU模块仿真
 
